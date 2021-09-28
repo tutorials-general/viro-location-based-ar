@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "viro-location-based-ar",
+    "slug": "viro-location-based-ar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "viro-location-based-ar"
+}
