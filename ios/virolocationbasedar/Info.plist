@@ -51,5 +51,7 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+  <key>NSCameraUsageDescription</key>
+  <string>The camera is needed for AR functionality</string>
 </dict>
 </plist>
